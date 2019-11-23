@@ -8,3 +8,4 @@ This project requires Python 3.6 and the following Python libraries installed:
 - [scikit-learn](https://scikit-learn.org/stable/install.html)
 - [matplotlib](https://matplotlib.org/)
 
+Replicable environment with environment.txt
