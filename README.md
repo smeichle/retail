@@ -9,3 +9,10 @@ This project requires Python (>= 3.5) and the following Python libraries install
 - [matplotlib](https://matplotlib.org/)
 
 Replicable environment with environment.txt
+
+## Objectives
+This notebook covers the following: 
+1. Exploratory Data Analysis
+2. Data Cleaning
+3. Clustering
+4. Further Analysis
