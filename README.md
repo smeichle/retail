@@ -1,5 +1,5 @@
 # Customer segmentation with clustering algorithms
-Analysis of online retail data, customer segmentation with K-Means clustering
+In this repository, I'm analyzing a dataset containing data on a company's online retail transactions. The dataset for this notebook can be found at [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/online+retail).
 
 ## Environment
 This project requires Python (>= 3.5) and the following Python libraries installed: 
