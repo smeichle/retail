@@ -3,7 +3,7 @@ In this repository, I'm analyzing a dataset containing data on a company's onlin
 
 ## Environment
 This project requires Python (>= 3.5) and the following Python libraries installed: 
-- [Numpy](https://pypi.org/project/numpy/) (
+- [Numpy](https://pypi.org/project/numpy/) 
 - [Pandas](https://pandas.pydata.org/getpandas.html)
 - [scikit-learn](https://scikit-learn.org/stable/install.html)
 - [matplotlib](https://matplotlib.org/)
@@ -18,4 +18,3 @@ This notebook covers the following:
 4. Further Analysis
 
 
-### References
